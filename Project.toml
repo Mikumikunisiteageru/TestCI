@@ -1,0 +1,14 @@
+name = "TestCI"
+uuid = "48654f6e-0ac2-412f-88eb-bfb85e76823c"
+authors = ["Yu-Chang YANG <yang.yc.allium@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+
+[compat]
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

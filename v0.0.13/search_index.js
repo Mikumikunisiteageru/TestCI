@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"#TestCI.jl","page":"Home","title":"TestCI.jl","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Hello!","category":"page"},{"location":"","page":"Home","title":"Home","text":"TestCI.greet\nTestCI.greet2","category":"page"},{"location":"#TestCI.greet","page":"Home","title":"TestCI.greet","text":"greet()\n\nReturn the string \"Hello Planet!\".\n\n\n\n\n\n","category":"function"},{"location":"#TestCI.greet2","page":"Home","title":"TestCI.greet2","text":"greet()\n\nReturn the string \"How are you?\".\n\n\n\n\n\n","category":"function"},{"location":"","page":"Home","title":"Home","text":"Documentation made on 2023.2.16.","category":"page"}]
+}

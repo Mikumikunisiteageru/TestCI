@@ -1,7 +1,7 @@
 name = "TestCI"
 uuid = "48654f6e-0ac2-412f-88eb-bfb85e76823c"
 authors = ["Yu-Chang YANG <yang.yc.allium@gmail.com>"]
-version = "0.1.1"
+version = "0.1.2"
 
 [deps]
 

@@ -25,4 +25,11 @@ Return "Good!". Added since v0.0.14.
 """
 good() = "Good!"
 
+"""
+	verygood()
+
+Return "Very good!". Added since v0.1.2.
+"""
+verygood() = "Very good!"
+
 end # module TestCI

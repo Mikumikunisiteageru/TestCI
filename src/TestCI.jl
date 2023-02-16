@@ -2,8 +2,6 @@
 
 module TestCI
 
-using Documenter
-
 export greet
 
 """

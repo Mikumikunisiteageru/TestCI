@@ -2,7 +2,7 @@
 
 module TestCI
 
-export greet, good
+export greet, greet2, good
 
 """
 	greet()

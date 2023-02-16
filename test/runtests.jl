@@ -7,3 +7,4 @@ import Aqua
 Aqua.test_all(TestCI)
 
 @test greet() == "Hello Planet!"
+@test greet() isa String

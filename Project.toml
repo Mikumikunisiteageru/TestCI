@@ -1,7 +1,7 @@
 name = "TestCI"
 uuid = "48654f6e-0ac2-412f-88eb-bfb85e76823c"
 authors = ["Yu-Chang YANG <yang.yc.allium@gmail.com>"]
-version = "0.0.11"
+version = "0.0.12"
 
 [deps]
 
@@ -10,9 +10,9 @@ Documenter = "0.27"
 
 [extras]
 Aqua = "4c88cf16-eb10-579e-8560-4a9242c79595"
-Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [targets]
-test = ["Aqua", "Test"]
 docs = ["Documenter"]
+test = ["Aqua", "Test"]

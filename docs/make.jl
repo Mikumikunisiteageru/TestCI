@@ -14,5 +14,5 @@ makedocs(
 
 deploydocs(
     repo = "github.com/Mikumikunisiteageru/TestCI.jl.git",
-	versions = ["stable" => "v^", "v#.#.#"]
+	versions = ["stable" => "v^", "v#.#.#", "firstdoc" => "v0.0.13"]
 )

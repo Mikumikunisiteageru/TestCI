@@ -30,6 +30,6 @@ good() = "Good!"
 
 Return "Very good!". Added since v0.1.2.
 """
-verygood() = "Very good!"
+verygood() = "I'm fine! Fork U!"
 
 end # module TestCI
